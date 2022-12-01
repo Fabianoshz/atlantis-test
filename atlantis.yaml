@@ -1,0 +1,6 @@
+version: 3
+projects:
+- name: standard-project
+  dir: standard
+- name: standard-2-project
+  dir: standard-2
