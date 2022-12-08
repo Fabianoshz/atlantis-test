@@ -1,7 +1,7 @@
 version: 3
 projects:
 - name: test
-  dir: .
+  dir: standard
   autoplan:
     when_modified: ["**/*.tf"]
     enabled: true
