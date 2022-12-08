@@ -3,5 +3,5 @@ projects:
 - name: test
   dir: standard
   autoplan:
-    when_modified: ["standard-3/**/*.tf"]
+    when_modified: ["../standard-3/**/*.tf"]
     enabled: true
