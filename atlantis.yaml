@@ -1,6 +1,8 @@
 version: 3
 projects:
-- name: test
+- name: standard
+  workspace: prd
   dir: standard
-- name: test2
-  dir: standard-2
+- name: standard-dev
+  workspace: dev
+  dir: standard
