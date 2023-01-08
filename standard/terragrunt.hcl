@@ -1,3 +1,3 @@
 inputs = {
-  name = "name"
+  name = "namee"
 }
