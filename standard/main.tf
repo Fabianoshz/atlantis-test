@@ -1,3 +1,6 @@
+resource "random_pet" "pet" {
+}
+
 variable name {
   type        = string
 }
