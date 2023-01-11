@@ -4,7 +4,7 @@ dependency "vpc" {
 }
 
 inputs = {
-  name = "name-2"
+  name = "name-2-2"
 }
 
 include {
