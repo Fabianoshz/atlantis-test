@@ -2,5 +2,10 @@ version: 3
 projects:
 - name: test
   dir: standard
-- name: test2
-  dir: standard-2
+  workspace: test
+- name: test-2
+  dir: standard
+  workspace: test-2
+- name: test-3
+  dir: standard
+  workspace: test-3
