@@ -1,7 +1,7 @@
 variable name {
-  type        = string
+  type = string
 }
 
 output name {
-  value       = var.name
+  value = var.name
 }
