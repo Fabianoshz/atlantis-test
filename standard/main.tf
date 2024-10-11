@@ -1,7 +1,11 @@
+resource "time_sleep" "sleep" {
+  create_duration = "60s"
+}
+
 variable name {
-  type        = string
+  type = string
 }
 
 output name {
-  value       = var.name
+  value = var.name
 }
